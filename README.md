@@ -1,8 +1,8 @@
-Netflix Movies and TV Shows Data Analysis using SQL
+**Netflix Movies and TV Shows Data Analysis using SQL**
 
 ![NETFLIX LOGO](https://github.com/karthikj5/NETFLIX_SQL_PROJECT1/blob/main/NETFLIX.jpg)
 
-OBJECTIVES
+**OBJECTIVES**
 
 1.Analyze the distribution of content types (movies vs TV shows).
 
